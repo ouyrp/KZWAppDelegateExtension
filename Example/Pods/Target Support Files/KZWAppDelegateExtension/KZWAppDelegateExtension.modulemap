@@ -1,0 +1,6 @@
+framework module KZWAppDelegateExtension {
+  umbrella header "KZWAppDelegateExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

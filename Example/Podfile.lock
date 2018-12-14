@@ -1,0 +1,16 @@
+PODS:
+  - KZWAppDelegateExtension (0.1.0)
+
+DEPENDENCIES:
+  - KZWAppDelegateExtension (from `../`)
+
+EXTERNAL SOURCES:
+  KZWAppDelegateExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KZWAppDelegateExtension: 6bf0e0068eaea57443ada56823ff7748b464c542
+
+PODFILE CHECKSUM: c26380fbb19cb360839a61ba49099dfb1c4c8b48
+
+COCOAPODS: 1.5.3
